@@ -8,4 +8,4 @@ deleteImapPsw = False
 printResult = True
 
 # True, если вы хотите чтобы результат работы был в файле
-writeResult = True
+writeResult = False
